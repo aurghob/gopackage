@@ -1,4 +1,4 @@
-module helloworld
+module github.com/aurghob/gopackage
 
 go 1.14
 
